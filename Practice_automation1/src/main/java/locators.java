@@ -15,7 +15,7 @@ public class locators {
 	  /*driver.findElement(By.id("inputUsername")).sendKeys("pallavi");
 	    driver.findElement(By.name("inputPassword")).sendKeys("rahulshettyacademy");	    
 	   // driver.findElement(By.className("submit")).click();
-	   //Thread.sleep(3000);
+	   // Thread.sleep(3000);
 	   //driver.close();
 	 /*  driver.findElement(By.linkText("Forgot your password?")).click();
 	   Thread.sleep(2000);
