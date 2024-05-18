@@ -12,7 +12,7 @@ public class locators {
 		//System.setProperty("webdriver.chrome.driver","./Drivers/chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 	    driver.get("https://rahulshettyacademy.com/locatorspractice/");
-	  /*  driver.findElement(By.id("inputUsername")).sendKeys("pallavi");
+	  /*driver.findElement(By.id("inputUsername")).sendKeys("pallavi");
 	    driver.findElement(By.name("inputPassword")).sendKeys("rahulshettyacademy");	    
 	   // driver.findElement(By.className("submit")).click();
 	   //Thread.sleep(3000);
